@@ -1,0 +1,36 @@
+.jnfqw{
+    text-align: center;
+    color: #15082c;
+}
+
+.button{
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    border-color: blue;
+    border-top-color: yellowgreen;
+    border-bottom-color: black;
+    border-right-color: red;
+    background-color: whitesmoke;
+    font-size: xx-large;
+    text-align: center;
+  }
+
+.input{
+
+    padding: 20px;
+    margin: 0 3px;
+    border: 2px solid black;
+    border-radius: 9px;
+    border-color: blue;
+    border-top-color: yellowgreen;
+    border-bottom-color: black;
+    border-right-color: red;
+    background-color: yellow;
+    font-size: xx-large;
+}
+
+
+
+  
